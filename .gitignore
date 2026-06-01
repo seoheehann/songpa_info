@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Raw downloaded GIS data is too large for regular GitHub commits.
+AL_D150_11_20260526/
+AL_D194_11710_20260520/
+CH_D010_00_20260526/
+LSMD_CONT_LDREG_서울_송파구/
+03. 표제부_20260601150913.csv
+CH_D003_00_20260521.csv

@@ -1,0 +1,25 @@
+{
+  "name": "songpa-parcel-viewer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "preprocess": "node scripts/preprocess.js"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.7.2",
+    "ol": "^7.5.0",
+    "proj4": "^2.20.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.9.0",
+    "shapefile": "^0.6.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.0",
+    "vite": "^5.4.0"
+  }
+}
